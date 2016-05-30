@@ -1,0 +1,35 @@
+body{background-color: #f4f4f4;}
+#main{
+    font-family: Verdana,sans-serif;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+    
+}
+
+
+.albums{
+	display:flex;
+	flex-direction: column;
+    background-color:#0A090C;
+    color:#F0EDEE;
+    text-align: center;
+    margin-top:25px;
+    padding-bottom:5px;
+    width:250px;
+}
+.albums button {
+	margin: auto auto 0em auto;
+}
+.foto{
+    width:250px;
+}
+button {
+    width:100px;
+}
+footer{
+    width:100%;
+    background-color:;
+    font-size:;
+    height:100px;
+}
